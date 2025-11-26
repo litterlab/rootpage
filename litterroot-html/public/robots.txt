@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://bold-queasy-jay-og1t86.teleporthq.app/sitemap.xml
